@@ -32,12 +32,12 @@ Ingeniero en Sistemas Computacionales enfocado en el desarrollo de soluciones es
 
 | BYD Juriquilla | Honda Morelia |
 | :---: | :---: |
-| <a href="https://bydjuriquilla.com"><img src="byd.PNG" width="400" /></a> | <a href="https://hondamorelia.com"><img src="honda.jpg" width="400" /></a> |
+| <a href="https://bydjuriquilla.com"><img src="byd.PNG" width="400" /></a> | <a href="https://hondamorelia.com"><img src="honda.PNG" width="400" /></a> |
 | [Visitar Sitio](https://bydjuriquilla.com) | [Visitar Sitio](https://hondamorelia.com) |
 
-| Fame Valladolid | Continental AG System |
+| Toyota Valladolid | Continental AG System |
 | :---: | :---: |
-| <a href="https://famevalladolid.com"><img src="fame.jpg" width="400" /></a> | <img src="continental.jpg" width="400" /> |
+| <a href="https://famevalladolid.com"><img src="toyota.PNG" width="400" /></a> | <img src="continental.jpg" width="400" /> |
 | [Visitar Sitio](https://famevalladolid.com) | *Sistema Interno de Datos* |
 
 ---
