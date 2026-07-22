@@ -1,52 +1,60 @@
-# 
+# Mario Gonzalez Aceves
+### Software Engineer | FullStack Developer
 
-<div align="center">
-
-<!-- BANNER PRINCIPAL (Corregido y Estable) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=MARIO+GONZALEZ+ACEVES;FullStack+Developer+Jr;Tu+idea,+hecha+realidad." alt="Mario Gonzalez Aceves" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Morelia,_Michoacán-000000?style=flat-square&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Age-25-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Morelia%2C%20MX-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Software_Architecture-black?style=flat-square" />
 </p>
 
 ---
 
-### ⚡ Status
-**Desarrollador FullStack** enfocado en la creación de plataformas robustas y estéticas. Actualmente liderando la renovación digital para **Chevrolet (Grupo Fame)**.
-
-**Habilidades Principales:**
-`JS Vanilla` • `React JS` • `PHP` • `Laravel` • `MySQL` • `Firebase` • `AWS (Learning)`
+### 🖋️ Perfil Profesional
+Ingeniero en Sistemas Computacionales enfocado en el desarrollo de soluciones escalables que optimizan procesos de negocio. Mi trayectoria combina la precisión de la **digitalización industrial** con la agilidad de los **ecosistemas comerciales digitales**.
 
 ---
 
-### 🚀 Proyectos en Producción
-*Selección de plataformas activas y funcionales*
+### 🏗️ Experiencia Relevante
 
-| Proyecto | Industria | Enlace |
-| :--- | :--- | :--- |
-| **BYD Juriquilla** | Automotriz Premium | [Visitar Sitio ↗️](https://bydjuriquilla.com) |
-| **Honda Morelia** | E-commerce / Catálogo | [Visitar Sitio ↗️](https://hondamorelia.com) |
-| **Fame Valladolid** | Corporativo | [Visitar Sitio ↗️](https://famevalladolid.com) |
+#### **Grupo Fame** | *FullStack Developer Jr* | _Mayo 2025 — Actualidad_
+*   **Desarrollo Web Comercial:** Creación y mantenimiento de plataformas informativas de alto rendimiento para agencias automotrices.
+*   **Integraciones & APIs:** Implementación de flujos de datos mediante **Meta API** y conexiones directas a **CRM** y Jotform.
+*   **Sistemas Internos:** Desarrollo de CRDs para gestión de proveedores y herramientas de administración interna.
+*   **Visión de Negocio:** Experiencia complementaria en análisis de KPIs, presupuestos y campañas de Google Ads (enfoque estratégico).
 
----
-
-### 🎨 Sobre mí
-- ✍️ **Pasión:** Además de programar, soy entusiasta del dibujo artístico.
-- 🛠️ **Workflow:** Diseño soluciones limpias, eficientes y fáciles de mantener.
-- ☁️ **Meta actual:** Dominar la infraestructura en la nube con AWS.
+#### **Continental AG** | *Intern / Developer* | _Septiembre 2024 — Abril 2025_
+*   **Digitalización Industrial:** Desarrollo de un sistema web interno para la transición de checklists manuales a digitales.
+*   **Data Visualization:** Implementación de módulos de graficación de resultados para el monitoreo del estado de maquinaria pesada en tiempo real.
 
 ---
 
-### 📫 Contacto
+### 🛠️ Stack Tecnológico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | JS Vanilla, React JS, HTML5, CSS3 |
+| **Backend** | PHP Vanilla, Laravel, MySQL |
+| **Herramientas & Cloud** | Firebase, Meta API, AWS (En proceso de aprendizaje) |
+| **Integraciones** | CRM, Jotform, Google Ads (Estratégico) |
+
+---
+
+### 🎯 Enfoque Actual
+Actualmente estoy profundizando mis conocimientos en **Arquitectura Cloud (AWS)** para llevar el despliegue de aplicaciones a un nivel de infraestructura corporativa, buscando siempre la transición de lo comercial hacia la ingeniería de software pura.
+
+---
+
+### 🤝 Conectemos
+<p align="left">
 <a href="https://www.linkedin.com/in/mario-gonzález-aceves-868786310">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:gonzalezacevesmario@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+</p>
 
-<br>
-
-![Line Art](https://raw.githubusercontent.com/Trulyao/Trulyao/main/assets/line-art.gif)
-
-</div>
+---
+<p align="center">
+  <i>"Transformando la complejidad técnica en eficiencia operativa."</i>
+</p>
