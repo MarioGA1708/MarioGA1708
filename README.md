@@ -1,98 +1,94 @@
-<!-- BANNER SUPERIOR ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Mario%20Gonzalez%20Aceves&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
-</p>
+<div align="center">
 
-<!-- EFECTO DE ESCRITURA -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=FullStack+Developer+Jr;Tú+tienes+la+idea...;Yo+la+hago+realidad." alt="Typing SVG" />
-  </a>
-</p>
+<!-- HEADER / BANNER DINÁMICO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=MARIO+GONZALEZ+ACEVES;FullStack+Developer+Jr;Tú+tienes+la+idea...;Yo+la+hago+realidad." alt="Typing SVG" />
 
 <p align="center">
-  📍 <b>Morelia, Michoacán</b>
+  <img src="https://img.shields.io/badge/LOCATION-MORELIA%2C%20MEX-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<hr />
+---
 
-<!-- SECCIÓN: SOBRE MÍ -->
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3> ⚡ Un poco sobre mí</h3>
-      <p>Soy un desarrollador enfocado en soluciones reales y escalables. Me especializo en transformar conceptos abstractos en plataformas funcionales y estéticas.</p>
-      <ul>
-        <li>🚀 <b>Actualmente:</b> Renovando las plataformas digitales de <b>Chevrolet (Grupo Fame)</b>.</li>
-        <li>📚 <b>Aprendiendo:</b> Arquitectura Cloud con <b>AWS</b>.</li>
-        <li>🎨 <b>Curiosidad:</b> Cuando no estoy programando, me encontrarás perfeccionando mis trazos en el dibujo.</li>
-      </ul>
+<!-- SECCIÓN: ABOUT ME EN FORMATO CARD -->
+<table border="0" width="100%">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
+      <h2 align="left">⠇ General Status</h2>
+      <p><i>"Transformando líneas de código en soluciones de negocio corporativas."</i></p>
+      <img src="https://img.shields.io/badge/Current_Project-Chevrolet_Fame_Renovation-white?style=flat-square&logo=gitbook&logoColor=black" />
+      <br><br>
+      • <b>Especialidad:</b> Arquitecturas PHP/Laravel & React.<br>
+      • <b>Enfoque:</b> Rendimiento y estética funcional.<br>
+      • <b>Hobbies:</b> Dibujo artístico y exploración tecnológica.
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    <td width="50%" align="center" style="border: none;">
+      <!-- IMAGEN DE TECH STACK DINÁMICA -->
+      <img src="https://skillicons.dev/icons?i=js,react,php,laravel,mysql,firebase,aws,figma&theme=dark" />
     </td>
   </tr>
 </table>
 
-<hr />
+---
 
-<!-- SECCIÓN: TECH STACK (MINIMALISTA) -->
-<h3 align="center">🛠️ Stack Tecnológico</h3>
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-JS%20Vanilla%20%7C%20React%20JS-white?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel%20%7C%20MySQL-black?style=for-the-badge&logo=laravel&logoColor=white" />
-  <!-- Cloud/Tools -->
-  <img src="https://img.shields.io/badge/Cloud-Firebase%20%7C%20AWS%20(Learning)-gray?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-<hr />
-
-<!-- SECCIÓN: PROYECTOS EN PRODUCCIÓN (EL FACTOR WOW) -->
-<h3 align="center">🌐 Proyectos en Producción</h3>
-<p align="center"><i>Plataformas activas desarrolladas con estándares profesionales</i></p>
+<!-- SECCIÓN: PROYECTOS (ESTILO PORTAFOLIO) -->
+<h2 align="center">🚀 Proyectos Destacados (Producción)</h2>
+<p align="center">Selección de plataformas desarrolladas para el sector automotriz y corporativo</p>
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center">
+      <td align="center" width="200">
         <a href="https://bydjuriquilla.com">
-          <img src="https://img.shields.io/badge/BYD%20Juriquilla-Visit%20Site-000000?style=flat-square" /><br/>
-          <sub>Automotriz Premium</sub>
+          <img src="https://img.shields.io/badge/BYD-Juriquilla-white?style=for-the-badge&logo=googlechrome&logoColor=black" /><br>
+          <sub>Ver Sitio Oficial</sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="200">
         <a href="https://hondamorelia.com">
-          <img src="https://img.shields.io/badge/Honda%20Morelia-Visit%20Site-000000?style=flat-square" /><br/>
-          <sub>E-commerce / Catálogo</sub>
+          <img src="https://img.shields.io/badge/Honda-Morelia-white?style=for-the-badge&logo=googlechrome&logoColor=black" /><br>
+          <sub>Ver Sitio Oficial</sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="200">
         <a href="https://famevalladolid.com">
-          <img src="https://img.shields.io/badge/Fame%20Valladolid-Visit%20Site-000000?style=flat-square" /><br/>
-          <sub>Plataforma Corporativa</sub>
+          <img src="https://img.shields.io/badge/Fame-Valladolid-white?style=for-the-badge&logo=googlechrome&logoColor=black" /><br>
+          <sub>Ver Sitio Oficial</sub>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<hr />
+<br>
 
-<!-- CONTACTO -->
-<h3 align="center">📫 Hablemos</h3>
+---
 
-<p align="center">
+<!-- SECCIÓN: APRENDIZAJE Y SKILLS -->
+<div align="center">
+  <h3>🛠️ Herramientas & Workflow</h3>
+  <img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-000000?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%2F%20JS-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Cloud-Firebase%20%2F%20AWS-000000?style=for-the-badge&logo=amazon-aws" />
+</div>
+
+<br>
+
+<!-- FOOTER / CONTACTO -->
+<div align="center">
+  <h3>🤝 Conectemos</h3>
   <a href="https://www.linkedin.com/in/mario-gonzález-aceves-868786310">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gonzalezacevesmario@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br>
+
+<!-- GIF DE CIERRE MINIMALISTA -->
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Trulyao/Trulyao/main/assets/line-art.gif" width="150px" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=La%20simplicidad%20es%20la%20m%C3%A1xima%20sofisticaci%C3%B3n.&author=Leonardo%20da%20Vinci" alt="Quote" />
-</p>
+</div>
