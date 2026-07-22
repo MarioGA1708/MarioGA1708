@@ -37,7 +37,7 @@ Ingeniero en Sistemas Computacionales enfocado en el desarrollo de soluciones es
 
 | Toyota Valladolid | Continental AG System |
 | :---: | :---: |
-| <a href="https://famevalladolid.com"><img src="toyota.PNG" width="400" /></a> | <img src="continental.jpg" width="400" /> |
+| <a href="https://famevalladolid.com"><img src="toyota.PNG" width="400" /></a> | <img src="SIM3.PNG" width="400" /> |
 | [Visitar Sitio](https://famevalladolid.com) | *Sistema Interno de Datos* |
 
 ---
